@@ -1,0 +1,9 @@
+=	equals sign	equality	5 = 2+3
+≠	not equal sign	inequality	5 ≠ 4
+≈	approximately equal	approximation	sin(0.01) ≈ 0.01,
+>	strict inequality	greater than	5 > 4
+<	strict inequality	less than	4 < 5
+≥	inequality	greater than or equal to	5 ≥ 4,
+≤	inequality	less than or equal to	4 ≤ 5,
+\+	plus sign	addition	1 + 1 = 2
+\^	caret

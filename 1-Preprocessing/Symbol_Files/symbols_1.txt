@@ -1,0 +1,21 @@
+¬	not	not - negation	¬ x
+~	tilde	negation	~ x
+∀	for all	 	 
+∃	there exists	 	 
+∄	there does not exists	 	 
+∴	therefore	 	 
+∵
+∠	angle	formed by two rays	∠ABC = 30°
+∟	right angle	= 90°	α = 90°
+°	degree	1 turn = 360°	α = 60°
+Δ	triangle	triangle shape	ΔABC≅ ΔBCD
+π	pi constant	π = 3.141592654...
+∆	delta	change / difference	∆t = t1 - t0
+∆	discriminant	Δ = b2 - 4ac	 
+∑	sigma	summation - sum of all values in range of series	∑ xi= x1+x2+...+xn
+∑∑	sigma	double summation	
+∏	capital pi	product - product of all values in range of series	∏ xi=x1∙x2∙...∙xn
+γ	Euler-Mascheroni  constant	γ = 0.527721566...	 
+φ	golden ratio	golden ratio constant	 
+π	pi constant	π = 3.141592654...
+∈	random_char
