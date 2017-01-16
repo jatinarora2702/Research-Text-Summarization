@@ -9,7 +9,7 @@ We consider the task of summarization as a sequence-to-sequence mapping task whe
 
 **Target Sequence:** Extractive summary of the text
 
-Hence, we use **LSTM (Long Short Term Memory)** based RNNs (Recurrent Neural Networks) with **Attention Mechanism** for the task since research text has lot of long-term dependencies among the various sections of the paper. Attention mechanism models focussing on some portion of the input text more than the others at different instances of time.
+Hence, we use **LSTM (Long Short Term Memory)** based RNNs (Recurrent Neural Networks) with **Attention Mechanism** for the task since research text has lot of long-term dependencies among the various sections of the paper. Attention mechanism models focussing on some portion of the input text more than the others at different instances of time. During training, the abstract of the input research paper is the target output.
 
 # Major Challenge
 
