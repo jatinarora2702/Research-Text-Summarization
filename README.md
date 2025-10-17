@@ -1,5 +1,5 @@
 # Research Text Summarization
-System for extractive summarization of research text using Deep Learning
+System for extractive and abstractive summarization of research text using Deep Learning
 
 # Approach
 
